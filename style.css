@@ -1,0 +1,19 @@
+
+.dark {
+    background-color: black;
+    color: white;
+};
+
+
+.dark0 {
+    background-color: white;
+    color: black;
+};
+
+.foto-perfil {
+    border-radius: 50%;
+};
+
+div:hover {
+    background-color: blueviolet !important;
+};
