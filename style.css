@@ -1,19 +1,15 @@
-
-.dark {
-    background-color: black;
-    color: white;
+.foto-perfil{
+  height: 150px;
+  width: 150px;
+border-radius: 50%;
 };
 
+.dark{
+  background-color: black;
+  color: lightslategray;
+}
 
-.dark0 {
-    background-color: white;
-    color: black;
-};
-
-.foto-perfil {
-    border-radius: 50%;
-};
-
-div:hover {
-    background-color: blueviolet !important;
-};
+.col:hover{
+  background-color: darkblue;
+  color: white;
+}
